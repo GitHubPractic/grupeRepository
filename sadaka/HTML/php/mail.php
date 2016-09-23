@@ -1,7 +1,7 @@
 <?php
 
 /* =====================================================
- * change this to the email you want the form to send to
+ * change this to the email you want the form to send toooooo
  * ===================================================== */
 $email_to = "dianakovacheva@abv.bg"; 
 $email_from = "webmaster@company.pw"; // must be different than $email_from 
